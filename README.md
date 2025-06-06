@@ -21,5 +21,5 @@ Campus Connect is a web-based Complaint Management System designed for education
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/campus-connect.git
+   git clone https://github.com/your-username/Campus-connect.git
 
